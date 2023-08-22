@@ -4,7 +4,7 @@ import multiprocessing
 
 from videoimages import video_to_images
 from processing import translate
-from addToVideo import caption
+from addtovideo import caption
 
 def process_video(args):
     """
