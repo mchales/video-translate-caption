@@ -4,7 +4,7 @@ This project automates the extraction of Chinese text from video frames, transla
 
 The addition of Pinyin assists students in proper pronunciation and tones, bridging the gap between written characters and spoken language. Furthermore, by including a translation as subtitles, learners can immediately understand the meaning and context, fostering a holistic and immersive learning experience.
 
-Demo: This is the first 20 seconds of [video](https://www.youtube.com/watch?v=ns4hTp7mdco&list=PLCxAtDkpA3f_s1q3rhRVEPnWX1o2utFk1). I have over 100 full episodes captioned however I cannot share them due to copyright infringement.
+Demo: This is the first 20 seconds of [video](https://www.youtube.com/watch?v=ns4hTp7mdco&list=PLCxAtDkpA3f_s1q3rhRVEPnWX1o2utFk1).
 
 ![Alt Text for the GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFkM2oyZDJmdmxxbXkya3F6cHNqYWp5OWcwMzJhb25ra2g3cDhucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ioj9acS6io2ynIA6Ub/giphy-downsized-large.gif))
 
